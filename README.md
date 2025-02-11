@@ -6,7 +6,7 @@
     3. 統計年、月、日平均
 
 ### 專案UI
-![image](https://github.com/user-attachments/assets/040ce630-8640-4910-8552-aa5a3af56e1c)
+![image](https://github.com/user-attachments/assets/d8f1b799-1037-487e-a6e9-c40da74734b0)
 
 ### Performance
 - 1000筆記錄內的搜尋可在100ms內完成
@@ -17,4 +17,5 @@
 - [專案SDS文件](https://drive.google.com/file/d/17GvuJJN8NinwwQGAYbU7pxFwufROHfDW/view?usp=sharing)
 - [專案STS文件](https://drive.google.com/file/d/1YFMGKtl1SVNI7518SFyC_Zk6hIy1RWPN/view?usp=sharing)
 ### 測試清單
-![螢幕擷取畫面 2025-02-11 132610](https://github.com/user-attachments/assets/014bb908-ee64-4c79-a781-d9f875241198)
+![螢幕擷取畫面 2025-02-11 132610](https://github.com/user-attachments/assets/6cce4b9a-2f62-4f8a-b980-976c80b0df64)
+
